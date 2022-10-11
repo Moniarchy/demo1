@@ -1,0 +1,6 @@
+{
+	"name": "kitchenSink",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": ".."
+	}
